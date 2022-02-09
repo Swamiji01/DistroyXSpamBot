@@ -15,7 +15,7 @@ from datetime import datetime
 RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
   
 
-rizoel = "✯ 𝙃𝙚𝙖𝙧𝙩𝙃𝙖𝙘𝙠𝙚𝙧 𝙎𝙥𝙖𝙢 𝙃𝙚𝙧𝙚 ✯\n\n"
+rizoel = "✯ 𝗡𝗢𝗕𝗜𝗧𝗔 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧𝗦 ✯\n\n"
 rizoel += f"═══════════════════\n"
 rizoel += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 rizoel += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
