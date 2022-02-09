@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>𝙃𝙚𝙖𝙧𝙩 𝙃𝙖𝙘𝙠𝙚𝙧 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩</b>
+  <b>𝗡𝗢𝗕𝗜𝗧𝗔 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/AT-WORLDS-END/HeartHackerSpamBot?style=flat-square&color=orange)](https://github.com/AT-WORLDS-END/HeartHackerSpamBot/fork)
@@ -14,15 +14,15 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AT-WORLDS-END/HeartHackerSpamBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuldiprathod/HeartHackerSpamBot)
 
 
 # Support & Updates
-* [Channel](https://t.me/YamlokOfficial)
-* [Support Group](https://t.me/LethalXfighters)
+* [Channel](https://t.me/distroyspam)
+* [Support Group](https://t.me/OPSPAMMERKING)
 
 # Credits
-* [Mad Devil Creator](https://github.com/AT-WORLDS-END)
-* [RiZoeL](https://github.com/MrRizoel)
-* [Ustad-op](https://github.com/Ustad-Op)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [MR_NOBI_XD Creator](https://t.me/OPSPAMMERKING)
+
+
+* for [Telethon.](https://github.com/LonamiWebs/Telethon)
