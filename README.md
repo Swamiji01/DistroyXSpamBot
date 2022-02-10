@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>𝗡𝗢𝗕𝗜𝗧𝗔 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧</b>
+  <b> 𓆩🕊️⃝𝐑𝐀𝐈𝐂𝐇𝐔𓆪 ™</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/AT-WORLDS-END/HeartHackerSpamBot?style=flat-square&color=orange)](https://github.com/AT-WORLDS-END/HeartHackerSpamBot/fork)
@@ -18,11 +18,11 @@
 
 
 # Support & Updates
-* [Channel](https://t.me/distroyspam)
-* [Support Group](https://t.me/OPSPAMMERKING)
+* [Channel](https://t.me/SWAMI_DP)
+* [Support Group](https://t.me/RAICHU_SPAM_SUPPORT)
 
 # Credits
-* [MR_NOBI_XD Creator](https://t.me/OPSPAMMERKING)
+* [ 𓆩🕊️⃝𝐑𝐀𝐈𝐂𝐇𝐔𓆪 ™ Creator](https://t.me/raichu_xD)
 
 
 * for [Telethon.](https://github.com/LonamiWebs/Telethon)
